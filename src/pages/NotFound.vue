@@ -2,7 +2,7 @@
     <section>
         <base-card>
             <h2>Page not found</h2>
-            <p>Something went wrong... <router-link to="/coaches">coaches</router-link> </p>
+            <p>Something went wrong...Maybe you want to find <router-link to="/coaches">coache</router-link> ?</p>
         </base-card>
     </section>
 </template>
